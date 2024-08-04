@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #f20000;
     margin: 0;
     padding: 20px;
 }
@@ -9,6 +9,15 @@ h1 {
     color: #66ff00;
 }
 
+h2 {
+    color: #00598d
+}
+
 p {
+    font-family: Trebuchet MS;
     font-size: 18px;
+}
+
+p1 {
+
 }
